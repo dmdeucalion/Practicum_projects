@@ -10,4 +10,4 @@
 
   **Стек**: SQL, Yandex DataLens
 
-2. [Анализ времени взаимодействия с контентом приложения Яндекс.Книги пользователей из Москвы и Санкт-Петербурга](Проект Яндекс Книги.ipynb)
+2. [Проект Яндекс Книги.ipynb] (https://github.com/dmdeucalion/Practicum_projects/blob/cd90955be17ef4ea9a21b43fa0f482c60e293383/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8.ipynb)
